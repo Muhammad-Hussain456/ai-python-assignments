@@ -3,7 +3,7 @@ import random
 NUM_SIDES = 6
 
 ''' Note: 
-The local variable "die1" in  roll_dice() changes but this change has no affect on the same variable "die1" in the main(). This shows how variable scope works.
+ The local variable "die1" in  roll_dice() changes but this change has no affect on the same variable "die1" in the main(). This shows how variable scope works.
 '''
 def roll_dice():
     
